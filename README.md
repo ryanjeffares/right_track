@@ -1,16 +1,5 @@
 # right_track
 
-A new Flutter project.
+This project is in very early stages of development. This is the first and only Dart I've ever written too, so it's a good exercise.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eventually will be a cross-platform app for giving and receiving feedback on music of one's own creation.
